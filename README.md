@@ -1,6 +1,6 @@
 # vue-355
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
